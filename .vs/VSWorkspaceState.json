@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.git",
+    "\\.git\\hooks",
+    "\\.git\\info",
+    "\\.git\\logs",
+    "\\.git\\logs\\refs",
+    "\\.git\\logs\\refs\\heads",
+    "\\e2e",
+    "\\e2e\\src",
+    "\\Local settings (.vs)"
+  ],
+  "SelectedNode": "\\.git\\info",
+  "PreviewInSolutionExplorer": false
+}
